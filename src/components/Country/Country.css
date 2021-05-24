@@ -1,0 +1,23 @@
+.box-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+}
+.box{
+    border:3px solid pink;
+    margin:10px;
+    padding:20px;
+    width:200px;
+    border-radius: 20px;
+    text-align: center;
+ 
+}
+.btn{
+    background-color: purple;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    width: 160px;
+    margin-top: 10px;
+    color: white;
+}
